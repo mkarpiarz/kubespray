@@ -1,0 +1,3 @@
+- src: https://github.com/geerlingguy/ansible-role-glusterfs
+  name: glusterfs
+  version: ee3505c6ed4b0983b4b9d1fe861d78475cbe1fab
